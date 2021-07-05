@@ -5,6 +5,8 @@ Created on Sat Jul  3 17:19:50 2021
 @author: vijay
 """
 
+#This program calculates the volume of a cube using constructors 
+
 class volCube:
     def __init__(self):
         pass
